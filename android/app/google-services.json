@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923155973908",
+    "project_id": "flutterappandroid-beabb",
+    "storage_bucket": "flutterappandroid-beabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923155973908:android:8832cd3c8f77dc828ee401",
+        "android_client_info": {
+          "package_name": "com.example.flutterproiecttest1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGZaSyoq6wUwAg7ePky3dTfaQXBnsbBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
