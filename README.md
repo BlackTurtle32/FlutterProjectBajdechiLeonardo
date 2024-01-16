@@ -20,6 +20,8 @@ Repository Contents:
 
 This repository contains only the Flutter/Dart part of the project, specifically the frontend.
 
+I also uploaded the .pdf document into the assignment section. Unfortunately, I could not upload the Flutter - Dart code as well because it exceeds the 500 MB limit.
+
 I hope everything is in place, and if there is anything else needed, please let me know.
 
 Thank you! :)
